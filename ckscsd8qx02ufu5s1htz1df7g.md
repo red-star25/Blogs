@@ -1,4 +1,4 @@
-## Top 10 Website For Developers
+## Top 10 Websites For Developers
 
 - Have you ever wondered about those viral sites, the ones that went from average to trending in a matter of minutes. 
 - Yup, I am talking about the **‘Top 10 “X” Sites’ or ‘10 Websites You Don’t Know Exists'** type of articles. We have seen lots of these types of articles and I decided to take it a step further. 
