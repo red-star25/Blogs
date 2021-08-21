@@ -1,4 +1,4 @@
-## Master The Art of Dependency Injection 🐱‍👤
+## Master The Art of Dependency Injection
 
 ## Introduction
 - Dependency injection is one of the most useful design patterns that allow developers to write loosely coupled code. It also helps to keep our code testable. 
