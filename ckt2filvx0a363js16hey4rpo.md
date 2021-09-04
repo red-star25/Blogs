@@ -172,7 +172,7 @@ class Car extends Equatable {
   List<Object?> get props => [carName, carImage];
 }
 ```
-- `props` is a getter method that will return `List<Object>`. Here `Objcet` can be of any type (like : `int`,`double`, `list` etc). You have to simply return a list of all the objects that are available in your class (`carName` and `carImage` in our case).
+- `props` is a getter method that will return `List<Object>`. Here `Object` can be of any type (like : `int`,`double`, `list` etc). You have to simply return a list of all the objects that are available in your class (`carName` and `carImage` in our case).
 - **THAT'S IT !!!!!!**
 - 
 ![equatable.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630250539217/x-BELcD1c.png)
