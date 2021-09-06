@@ -348,7 +348,7 @@ we need to somehow provide this bloc to the widget tree so that we can use the `
 - 
 ![GuessGIF.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1630601445817/O2ghS8BgB.gif)
 - Its non-other than our favorite **MaterialApp** 🎉🎉
-- So let's wrap the **BlocProvider** inside **MaterialApp**
+- So let's wrap the **BlocProvider** around **MaterialApp**
 - Go to `main.dart`.
 - 
 ```
