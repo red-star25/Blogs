@@ -1,6 +1,6 @@
 ## Slivers in Flutter - Part (2)
 
-- In the previous article saw, What is **Slivers**, **CustomScrollView**, **SliverAppBar**, **SliverList** with an example.
+- In the previous article we saw, What is **Slivers**, **CustomScrollView**, **SliverAppBar**, **SliverList** with an example.
 - Now let's explore some more Slivers.
 -------
 ## ⚽ SliverPersistentHeader
