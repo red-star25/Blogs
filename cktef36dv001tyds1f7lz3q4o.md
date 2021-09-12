@@ -1,4 +1,4 @@
-## Advance Scrolling in Flutter - Part (1)
+## Slivers in Flutter - Part (1)
 
 ## Sliver
 - `Slivers` are basically a **scrollable area**, that can be customized. Slivers help us to make the scrolling fancier instead of a normal boring scroll.
