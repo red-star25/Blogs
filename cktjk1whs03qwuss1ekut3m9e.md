@@ -10,7 +10,7 @@
 ## SliverAnimatedList
 - Removing the list widget without any transition effect, will confuse the user with what just happened, from where the list item was inserted or deleted, etc.
 - To animate the sliver list we can use **SliverAnimatedList**. This widget's **SliverAnimatedListState ** can be used to dynamically insert or remove items.
-- **Example**
+- **Example** - Taken from doc.
 - First, let's **create a SliverAppBar** that has two buttons `add` and `remove` for inserting and removing the list item.
 - 
 ```
