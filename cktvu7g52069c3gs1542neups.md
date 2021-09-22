@@ -38,7 +38,7 @@ With Rezi, you’ll be able to create the perfect, optimized resume that lands y
 
 ----------
 
-- **Thanks for reading. If you found this Tools useful make sure to share it with others.**
+- **Thanks for reading. If you found these Tools useful make sure to share it with others.**
 - **See you in the next article. Till then...**
 - 
 ![PeaceOutImOutGIF.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1632335100516/jbybJ2KuG.gif)
