@@ -3,7 +3,7 @@
 - As a developer, animation becomes an important part of your app development workflow. To make your app memorable, you might want to create cool animations in your application.
 - **Animation **makes a huge difference in user engagement. It is a powerful tool for grabbing user's attention and making the app's UI more friendly to use.
 - **Animation ** is the process of creating a visual illusion of motion, with the help of elements such as images or videos. It is such a wonderful technique that allows you to convey your message with emotion and feeling. 
-- **Animation ** is one of the integral parts that make **Flutter ** such a powerful platform. It helps us to create apps that not only look fantastic but **feel natural** and **seamless ** as well.
+- **Animation ** is one of the integral parts that make **Flutter ** such a powerful framework. It helps us to create apps that not only look fantastic but **feel natural** and **seamless ** as well.
 - In this series, I'm going to explain different in-built animation widgets like AnimatedAlign, AnimatedContainer, AnimatedOpacity, AnimatedWidget, AnimatedModalBarrier, etc.
 - In this article, I've explained the **AnimatedAlign** widget. Which is used to animate the position.
 - 
