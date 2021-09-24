@@ -24,7 +24,7 @@ AnimatedAlign(
 - 
 ```
 AnimatedAlign(
-   alignment: alignment: animatePosition ? resultAlignment : currentAlignment,
+   alignment: animatePosition ? resultAlignment : currentAlignment,
    child: Container(...)
 )
 ```
