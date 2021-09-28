@@ -1,4 +1,4 @@
-## Understanding Streams: All you need to know
+## Understanding Streams: Everything you need to know
 
 ## Introduction
 - **Streams ** are very complex and hard to understand. In this blog, I'll try to explain this concept with some examples.
