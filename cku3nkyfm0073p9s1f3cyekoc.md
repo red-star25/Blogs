@@ -44,7 +44,8 @@ TickerProviderStateMixin {
 ```
 - As shown in the code above, we instantiated the controller class by passing two parameters, namely,
 - `duration`: This is the total length of time this animation should last.
-- `vsync`:  A `TickerProvider` is required. As a result, we must employ `SingleTickerProviderMixin`. The value this in this case means nothing but refers to the class's current `context`.
+- `vsync`:  A `TickerProvider` is required. As a result, we must employ `SingleTickerProviderMixin`. The value this in this case means nothing but refers to the class's current `context`. 
+- Offscreen animations are prevented from spending unnecessary resources thanks to the presence of `vsync`.
 > Remember to dispose of the `_controller` in the `dispose()` method. Because it eliminates memory leaks by disposing of the `AnimationController` when it is no longer required.
 - 
 ```
