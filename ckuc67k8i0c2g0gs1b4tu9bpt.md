@@ -1,6 +1,6 @@
 ## Animation In Flutter: AnimatedContainer
 
-- We've seen how to make Implicit animation with the `Animation` class, `Tween` animation, and `CurvedAnimation` in previous tutorials.
+- We've seen how to make Explicit animation with the `Animation` class, `Tween` animation, and `CurvedAnimation` in previous tutorials.
 - We've also tweaked the bouncing effect in our bouncing ball example to make it look more realistic.
 - **Previous Article Animation** : 
 - 
