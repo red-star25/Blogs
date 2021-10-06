@@ -1,6 +1,6 @@
 ## Animation In Flutter: Staggered / Sequence Animation
 
-## 🏀 Introduction
+## 🏀 Introduction 
 - We've seen **Implicit **and **Explicit **animations up to this point. How to use **Tween**, **CurvedAnimation**, and the **Animation **class to make a custom animation.
 - We've shown how to animate several widgets at the same time. However, many times we want our widgets to animate in Sequential order.
 - Let's take an example :
