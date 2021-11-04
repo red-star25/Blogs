@@ -11,7 +11,7 @@
 - [Caching](#caching)
 - [Data Staling](#data-staling)
 - [Re-fetching Options in React Query](#re-fetching-options-in-react-query)
-- [onSucess / onError Callbacks](#onsucess-onerror-callbacks)
+- [onSuccess / onError Callbacks](#onsuccess-onerror-callbacks)
 - [Data Transformation](#data-transformation)
 - [Dynamic Data Fetching](#dynamic-data-fetching)
 - [useQueryClient](#usequeryclient)
@@ -311,7 +311,7 @@ const { data, isLoading, isError, error, isFetching } = useQuery(
 - As you can see even if I lose focus by either clicking on the VSCode, or by opening the new tab, the data fetching is still going on every 2 seconds in the background. 
 
 ----------
-### onSucess / onError Callbacks
+### onSuccess / onError Callbacks
 - When it comes to data retrieval, we may wish to do certain activities after the query is completed.
 - Opening a model, switching to an alternative path, or even showing toast alerts are all examples.
 - React Query allows us to specify **Success **and **Error **callbacks as options to the useQuery hook to accomplish this.
@@ -325,7 +325,7 @@ const { data, isLoading, isError, error, isFetching } = useQuery(
     },
     {
       onSuccess: (data) => {
-        console.log("Data sucessfully fetched: "+ data);
+        console.log("Data successfully fetched: "+ data);
       },
       onError: (err) => {
         console.log("Error occured: "+ err);
