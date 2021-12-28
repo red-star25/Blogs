@@ -1,4 +1,4 @@
-## 20 Amazing People To Follow on Twitter as a Flutter Developer
+## 20 Amazing People You Should Follow on Twitter as a Flutter Developer
 
 ### [Vandad Nahavandipoor](https://twitter.com/vandadnp)
 
