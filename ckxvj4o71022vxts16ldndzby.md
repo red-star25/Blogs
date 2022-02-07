@@ -143,7 +143,7 @@ Future<void> initiateTransaction(String orderId, double amount,
     }
   }
 ```
-- ### **PaytmConfig** Full Source Code : [Here](https://gist.github.com/red-star25/0d8484da02d227da8effc4b5dba399cf)
+- ### **PaytmConfig** Full Source Code : [Here](https://gist.github.com/red-star25/65562b056a444025f058e489c336c28a)
 --------
 ### Step:3 - Make Payment
 - Now after all the configuration, we can make payment by calling the `generateTxnToken` function from our UI.
