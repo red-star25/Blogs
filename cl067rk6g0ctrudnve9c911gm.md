@@ -5,7 +5,7 @@
 
 ![a.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1645708156914/pdpNDndqx.gif)
 
-- Yup, That was me 👆 😅. If you are like me who doesn't care to test the apps or think that testing is hard like I was, or if you want to begin testing, then I can assure you that if you follow this series of testing, you will at least not dislike testing and start doing it for the apps. You will undoubtedly get the importance of testing.
+- Yup, That was me 👆 😅. If you don't care to test the apps or think that testing is hard like I was, or if you want to begin testing, then I can assure you that if you follow this series of testing, you will at least not dislike testing and start doing it for the apps. You will undoubtedly get the importance of testing.
 - **Testing **can help you to ensure that your application behaves as expected.
 - You can write tests in many different ways, but Flutter provides 3 default tests out of the box:  **Unit Test**, **Widget Test**, and **Integration Test**.
 
