@@ -121,12 +121,7 @@ class User extends HiveObject {
 - Finally, in order to construct a TypeAdapter class, we must run the following command.
 ```
 flutter packages pub run build_runner build
-``` 
-- As you can see, the User class has been annotated with `@HiveType(typeId: 0)`. To construct a TypeAdapter for a class, we must annotate it with `@HiveType` and supply a typeId.
-- The value of `typeId` should be between `0` and `223`.
-- The class's fields must be annotated with `@HiveField()` and their corresponding index.
-- Finally, in order to construct a TypeAdapter class, we must run the following command.
-"' flutter packages pub run build runner build "' flutter packages pub run build runner build "' flutter packages pub run build runner build
+```
 - The above code creates a UserAdapter adapter class. The optional `adapterName` argument of `@HiveType` allows you to customise that name.
 
 ![model.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1647618787051/vZnphYV8o.png)
