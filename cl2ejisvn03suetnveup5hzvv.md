@@ -503,7 +503,7 @@ Future<void> setup() async {
 
 -----------------
 
-## Builing UI
+## Building UI
 
 ![ui.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650874088550/q4YUKEvT-.png)
 
