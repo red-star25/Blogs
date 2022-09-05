@@ -290,7 +290,7 @@ void main() {
 ## Conclusion
 - Inheritance is a very strong and useful concept of Dart. It helps to reduce code duplication and also cuts down on bugs. 
 - With the code written in the parent class, you no longer need to write the same code for multiple child classes that has the same properties. 
-- In this way, inheritance in java implements code reusability to ensure better accessibility to users.
+- In this way, inheritance in dart implements code reusability to ensure better accessibility to users.
 
 -------
 
