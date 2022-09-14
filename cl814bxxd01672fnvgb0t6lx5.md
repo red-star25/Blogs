@@ -13,7 +13,7 @@
 ---------
 
 ## What is Encapsulation 🤷🏻‍♂️?
-- What if I tell you that we learned about Encapsulation already in our last previous articles? Yup, you heard it right. We already learned about Encapsulation not directly 
+- What if I tell you that we learned about Encapsulation already in our previous articles? Yup, you heard it right. We already learned about Encapsulation not directly 
 but indirectly.
 - If I have to tell you what Encapsulation means in a very high level and simple terms:
 
