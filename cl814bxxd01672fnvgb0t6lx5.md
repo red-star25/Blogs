@@ -21,7 +21,8 @@ but indirectly.
 
 ### Example
 - Okay, let's take a real-world example:
- - Assume you get a project from a bank as a client. They additionally  you to create a library with **Classes** related to that bank.
+ - Assume you get a project from a bank as a client. They additionally  
+ wants you to create a library with **Classes** related to that bank.
 
 ![encap1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662802456749/okPXGHBz2.png align="left")
 
