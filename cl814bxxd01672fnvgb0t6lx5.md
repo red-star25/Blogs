@@ -46,9 +46,6 @@ but indirectly.
 
 ![20220914_094656_0000.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663129123836/PARstO-n_.png align="left")
 
-
- - As you can see, how making variables and methods public leads to the loss of millions of dollars.
-
 - So, how can we overcome this problem? Well, Here is where Encapsulation comes into play.
 - We need to make the variables defined in this library read-only, by doing so, now you only have the access to display the balance in your app, you cannot update it anymore.
 
