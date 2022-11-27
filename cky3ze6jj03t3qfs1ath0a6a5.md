@@ -1,4 +1,4 @@
-## Flutter BLoC (v8): How to Fetch Data From an API? - 2022 Guide
+# Flutter BLoC (v8): How to Fetch Data From an API? - 2022 Guide
 
 ## Introduction
 - In this blog, we will see how to make an API call by using BLoC Architecture. If you remember all the way back to my article on [Flutter BLoC: A Complete Guide](https://dhruvnakum.xyz/flutter-bloc-a-complete-guide), we went over what BLoC stands for and how it works.
