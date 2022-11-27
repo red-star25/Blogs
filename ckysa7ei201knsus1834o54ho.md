@@ -1,4 +1,4 @@
-## Hydrated Bloc: Persist and Restore Your Bloc State/Data
+# Hydrated Bloc: Persist and Restore Your Bloc State/Data
 
 ## Intro
 - Helloo **Flutter Devs**. I'm here with another interesting Flutter Bloc article to continue the flow of Flutter Bloc articles.
