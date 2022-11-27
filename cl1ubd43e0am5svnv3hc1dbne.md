@@ -1,4 +1,4 @@
-## BlocObserver: Debug and Observe your Bloc Easily
+# BlocObserver: Debug and Observe your Bloc Easily
 
 ## Introduction
 - **What is up Flutter Dev 👋🏻!!!** In this blog, we'll learn about a unique feature that **Bloc **has to offer.
