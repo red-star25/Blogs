@@ -1,4 +1,4 @@
-## Bloc Concurrency: Advance Event Transformer
+# Bloc Concurrency: Advance Event Transformer
 
 ## Event Transformation
 - To retrieve data/state in BloC, we use the UI to trigger/pass an event to the BloC. When we're not working with real-time apps, this is OK.
