@@ -1,4 +1,4 @@
-## Flutter Bloc : A Complete Guide
+# Flutter Bloc : A Complete Guide
 
 # Intro
 - When it comes to building an application, Flutter is the easiest and powerful framework. 
