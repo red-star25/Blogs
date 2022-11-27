@@ -1,4 +1,4 @@
-## Flutter Bloc (v8): Google Sign In and Firebase Authentication - 2022 Guide
+# Flutter Bloc (v8): Google Sign In and Firebase Authentication - 2022 Guide
 
 ## Introduction
 - Authentication is the process of identifying yourself to the system using a set of credentials that only you know so that the system can ensure your identity and provide various resources only to you.
