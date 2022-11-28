@@ -279,7 +279,7 @@ class HomePage extends ConsumerWidget {
 
 ## When to use `read`, `watch` and `listen`?
 - `ref.read`: 
- - `ref.read` usually used in the cases like, on button press, getting the value from other provider which is not reactive, etc.
+ - `ref.read` usually used in the cases like, on button press, getting the value from other provider, etc.
  - Using `ref.read` should be avoided as much as possible because it is not reactive. It exists for cases where using `watch` or `listen` would cause issues.
 - `ref.watch`:
  - Whenever possible, prefer using `ref.watch` over `ref.read` or `ref.listen` to implement a feature. By relying on `ref.watch`, your application becomes both reactive and declarative, which makes it more maintainable.
