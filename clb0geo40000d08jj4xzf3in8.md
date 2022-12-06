@@ -15,6 +15,14 @@ After that, we'll create a real-world example using Riverpod. This will help you
 So without further ado, Let's get started.
 
 ---------
+## Intro to Riverpod
+* Flutter Riverpod is a modern, lightweight state management library for Flutter. 
+* It is designed to make managing and accessing application state easy, while offering powerful features like state immutability, state isolation, and dependency injection. 
+* With Flutter Riverpod, you can easily manage your application state using StateProviders, StateNotifiers, StateNotifierProviders, FutureProviders, and StreamProviders. 
+* These tools make it easier to handle complex application state, as well as to make state more accessible and easily shareable across widgets. 
+* With Flutter Riverpod, you can easily manage your application’s state, and make sure that your application is running efficiently.
+
+---------
 
 ## Installation
 
