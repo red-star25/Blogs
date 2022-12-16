@@ -412,22 +412,23 @@ class JokeRepository {
     
     %[https://dhruvnakum.xyz/flutter-riverpod-stateprovider-statenotifier-statenotifierprovider-futureprovider-streamprovider#heading-statenotifier-andamp-statenotifierprovider] 
     
-    ```dart
-    class JokeDataNotifier extends StateNotifier<JokeState> {
-      JokeDataNotifier(this.jokeRepository) : super(JokeState()) {
-        getJoke();
-      }
-      JokeRepository jokeRepository;
-    
-      Future<void> getJoke() async {
-        state = state.copyWith(isLoading: true);
-        await jokeRepository.fetchJoke().then((data) {
-          state = state.copyWith(joke: data, isLoading: false);
-        });
-      }
-    }
-    ```
-    
+
+```dart
+class JokeDataNotifier extends StateNotifier<JokeState> {
+  JokeDataNotifier(this.jokeRepository) : super(JokeState()) {
+    getJoke();
+  }
+  JokeRepository jokeRepository;
+
+  Future<void> getJoke() async {
+    state = state.copyWith(isLoading: true);
+    await jokeRepository.fetchJoke().then((data) {
+      state = state.copyWith(joke: data, isLoading: false);
+    });
+  }
+}
+```
+
 *   Let's understand the above code.
     
 *   When `getJoke` is called, the `JokeDataNotifier` updates its internal state object by setting `isLoading` to true, and then it asynchronously fetches a joke using the `jokeRepository` object.
