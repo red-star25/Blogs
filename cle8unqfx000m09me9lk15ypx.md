@@ -2,11 +2,9 @@
 
 ## Introduction
 
-* Welcome to my blog about Debugging! This article is a submission for Hashnode's [**#DebuggingFeb**](https://hashnode.com/n/debuggingfeb) Writeathon.
+* Welcome to my blog about Debugging! In this blog, I'll share some helpful tips and techniques for debugging which I personally use to fix errors and bugs.
     
 * One of the most critical aspects of debugging is using the right tools. There is a wide range of debugging tools available in the market that can help you identify and fix issues. Each of them serves a specific purpose, and learning how to use them effectively can save you a lot of time and frustration.
-    
-* I'll share some helpful tips and techniques for debugging in this blog which I personally use to fix errors and bugs.
     
 * I'll go through each of these methods in detail so that you can improve your debugging skills and take your development abilities to the next level.
     
